@@ -1,0 +1,12 @@
+[07-Aug-2021 00:56:52 America/Fortaleza] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1044] Access denied for user 'mkwebd86_sistgra'@'localhost' to database 'mkwebd86_sistemagra2fica' in /home1/mkwebd86/sistgraf.mkwebdesigner.com/js/conexao.php:9
+Stack trace:
+#0 /home1/mkwebd86/sistgraf.mkwebdesigner.com/js/conexao.php(9): PDO->__construct('mysql:host=loca...', 'mkwebd86_sistgr...', 'Enigma123')
+#1 /home1/mkwebd86/sistgraf.mkwebdesigner.com/js/proc_pesq_user.php(5): include('/home1/mkwebd86...')
+#2 {main}
+  thrown in /home1/mkwebd86/sistgraf.mkwebdesigner.com/js/conexao.php on line 9
+[07-Aug-2021 00:57:01 America/Fortaleza] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1044] Access denied for user 'mkwebd86_sistgra'@'localhost' to database 'mkwebd86_sistemagra2fica' in /home1/mkwebd86/sistgraf.mkwebdesigner.com/js/conexao.php:9
+Stack trace:
+#0 /home1/mkwebd86/sistgraf.mkwebdesigner.com/js/conexao.php(9): PDO->__construct('mysql:host=loca...', 'mkwebd86_sistgr...', 'Enigma123')
+#1 /home1/mkwebd86/sistgraf.mkwebdesigner.com/js/proc_pesq_user.php(5): include('/home1/mkwebd86...')
+#2 {main}
+  thrown in /home1/mkwebd86/sistgraf.mkwebdesigner.com/js/conexao.php on line 9
